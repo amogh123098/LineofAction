@@ -1,0 +1,6 @@
+#* staff-loa --strict
+#*time 180 180
+manual white
+auto black
+#*move
+#*remote move/win

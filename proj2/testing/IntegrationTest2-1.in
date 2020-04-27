@@ -1,0 +1,42 @@
+# A full game that White wins.
+#*java -ea loa.Main
+manual White
+b1-b3
+a2-c2
+c1-h1
+c2-e4
+d1-a4
+e4-e7
+f1-h3
+h2-g2
+g1-h2
+g2-e2
+h1-g2
+dump
+e2-b2
+f8-f7
+e7-e4
+e1-f1
+b2-c3
+g2-g4
+a3-b4
+f1-d3
+c3-d4
+d3-b5
+e4-g6
+g4-g1
+d4-e5
+g1-h1
+h4-f6
+b3-d3
+a7-b6
+d3-b3
+h7-f7
+c8-a6
+b4-c5
+dump
+h1-g1
+a5-b4
+b8-f8
+b4-d4
+#*win+
